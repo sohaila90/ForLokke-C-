@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLøkke", "ForLøkke\ForLøkke.csproj", "{3734834F-0C83-4734-ADB1-2C00B18B787E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{3734834F-0C83-4734-ADB1-2C00B18B787E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
